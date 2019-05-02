@@ -1,9 +1,3 @@
----
-categories: mechdesign_lecture
-layout: mechdesign_default
-title:  From Finite Element Analysis to Topology Optimization
-published: true
----
 
 <style TYPE="text/css">
 code.has-jax {font: inherit; font-size: 100%; background: inherit; border: inherit;}
