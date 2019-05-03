@@ -4,7 +4,7 @@ This note introduces the basic concept of finite element analysis (FEA) and topo
 and hopefully convince you that these are important topics to learn about for future 
 engineers 
 
-We showed that the deflection or deformation of a structure ($${\bf U}$$) can be solved through a algebraic equation 
+We showed that the deflection or deformation of a structure (${\bf U}$) can be solved through a algebraic equation 
 
 $${\bf KU}={\bf F}$$.
 
