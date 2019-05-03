@@ -10,8 +10,11 @@ You can find in teaching repository
 
 [Our TOPOPT+ALM Research](https://github.com/jomorlier/ALMcourse/blob/master/teaching/TOPOPT&ALM_SUPAERO.pdf)
 
+You can find in top88 repository all the files, paper, and ...
+
 [The 3 point bending projected corrected using top88](http://htmlpreview.github.io/?https://github.com/jomorlier/ALMcourse/blob/master/top88/topopt_3ptBENDING.html)
 
+Have a look in the top3D repository to do the same but in 3D !!! 
 
 
 # From Finite Element Analysis to Topology Optimization
