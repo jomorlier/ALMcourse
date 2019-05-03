@@ -43,17 +43,17 @@ more matured in the last two decades. Today topology optimization has many indus
 light-weight vehicle bodies, to artificial bones and implants, to biomemetic airplane wings, 
 to various sensors and actuators.
 
-<img src="/_images/mechdesign/featop4.jpg" alt="Drawing" style="height: 150px;"/> 
+<img src="/_images/mechdesign/featop4.jpg" alt="Drawing" style="height: 100px;"/> 
 
-<img src="/_images/mechdesign/featop7.png" alt="Drawing" style="height: 150px;"/> 
+<img src="/_images/mechdesign/featop7.png" alt="Drawing" style="height: 100px;"/> 
 
 Image from Aage et al. (2017) "Giga-voxel computational morphogenesis for structural design"
 
-<img src="/_images/mechdesign/featop5.png" alt="Drawing" style="height: 1500px;"/> 
+<img src="/_images/mechdesign/featop5.png" alt="Drawing" style="height: 100px;"/> 
 
 Image from Wu et al. (2018) "Infill Optimization for Additive Manufacturing - Approaching Bone-like Porous Structures"
 
-<img src="/_images/mechdesign/featop6.png" alt="Drawing" style="height: 200px;"/> 
+<img src="/_images/mechdesign/featop6.png" alt="Drawing" style="height: 100px;"/> 
 
 Image from Dassault Systems
 
