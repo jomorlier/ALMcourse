@@ -2,68 +2,7 @@
 
 This note introduces the basic concept of finite element analysis (FEA) and topology optimization (Topopt), 
 and hopefully convince you that these are important topics to learn about for future 
-engineers and entrepreneurs.
-
-The FEA examples are from [this tutorial](https://www.engr.uvic.ca/~mech410/lectures/FEA_Theory.pdf).
-
-## 1D Finite Element Analysis
-
-In the class we covered the deflection analysis for **regular** beams under various loads. 
-The analysis of irregular beams and structures of other topologies will rely on finite element analysis (FEA).
-
-FEA is an involving topic. Thus I will only cover the very basic ideas so that we can use them to introduce 
-topology optimization.
-
-### A two-spring system
-
-Consider the two element system where Node 1 is attached to a fixed support, yielding the displacement constraint
-$$U_1 = 0$$, $$k_1= 50 lb/in$$, $$k_2= 75 lb/in$$, $$F_2=F_3= 75 lb$$. For these conditions determine 
-nodal displacements $$U_2$$ and $$U_3$$.
-
-<img src="/_images/mechdesign/featop1.png" alt="Drawing" style="height: 200px;"/> 
-
-The displacements satisfy the following equation:
-
-$$ \begin{bmatrix} 50&-50&0\\-50&125&-75\\0&-75&75 \end{bmatrix} \begin{bmatrix} 0\\U_2\\U_3 \end{bmatrix} 
-=\begin{bmatrix} F_1\\75\\75 \end{bmatrix} $$
-
-Solve this to have $$U_2=3$$ and $$U_3=4$$. This is a simplest example of FEA, where the two springs represent
-the **elements**, the ends of the springs the **nodes**. The matrix 
-$${\bf K}=\begin{bmatrix} 50&-50&0\\-50&125&-75\\0&-75&75 \end{bmatrix}$$ is the **global stiffness matrix**,
-and $${\bf U} = \begin{bmatrix} 0\\U_2\\U_3 \end{bmatrix}$$ the **global displacement vector**.
-
-### Truss element example
-
-Now consider a tapered elastic bar subjected to an applied tensile load $$P$$ at one end
-and attached to a fixed support at the other end. The cross-sectional area varies
-linearly from $$A_0$$ at the fixed support at $$x = 0$$ to $$A_0/2$$ at $$x = L$$. Calculate the
-displacement of the end of the bar (a) by modeling the bar as a single element
-having cross-sectional area equal to the area of the actual bar at its midpoint along
-the length, (b) using two bar elements of equal length and similarly evaluating the
-area at the midpoint of each, and compare to the exact solution.
-
-<img src="/_images/mechdesign/featop2.png" alt="Drawing" style="height: 300px;"/> 
-
-We know that the equivalent stiffness of each element is $$k = P/\delta = AE/L$$ (the strain $$\delta = PL/AE$$). 
-
-(a) $$k=AE/L=3A_0E/4L$$ and $$3A_0E/4L \begin{bmatrix} 1&-1\\-1&1 \end{bmatrix} \begin{bmatrix} U_2\\U_3 \end{bmatrix}
-= \begin{bmatrix} F_1\\P \end{bmatrix}$$. This leads to $$U_2 = 1.33PL/A_0E$$
-
-(b) Two elements of equal length $$L/2$$ with associated nodal displacements. 
-For element 1, $$A1 = 7A_0/8$$ so $$k_1 = 7A_0E/4L$$, while for element 2, $$A_1 = 5A_0/8$$ and $$k_2 = 5A_0E/4L$$.
-
-From $$ \begin{bmatrix} k_1&-k_1&0\\-k_1&k_1+k_2&-k_2\\0&-k_2&k_2 \end{bmatrix} 
-\begin{bmatrix} U_1\\U_2\\U_3 \end{bmatrix} 
-     =\begin{bmatrix} F_1\\0\\P \end{bmatrix} $$
-and $$U_1 = 0$$ we get $$U_2 = 4PL/7A_0E$$ and $$U_3 = 1.371 PL/A_0E$$.
-
-The exact solution is 1.386PL/A_0E. With two elements, we have a better approximation of the solution. 
-Including more elements will further improve the approximation.
-
-<img src="/_images/mechdesign/featop3.png" alt="Drawing" style="height: 400px;"/> 
-
-
-## Topology Optimization
+engineers 
 
 We showed that the deflection or deformation of a structure ($${\bf U}$$) can be solved through a algebraic equation 
 
@@ -139,3 +78,18 @@ Image from Wu et al. (2018) "Infill Optimization for Additive Manufacturing - Ap
 <img src="/_images/mechdesign/featop6.png" alt="Drawing" style="height: 400px;"/> 
 
 Image from Dassault Systems
+
+You can find in teaching repository 
+
+[The course introduction](https://github.com/jomorlier/ALMcourse/blob/master/teaching/TOPOPT_intro2018.pdf)
+
+[The exercice using top88](https://github.com/jomorlier/ALMcourse/blob/master/teaching/BE_Topopt_eleve.pdf)
+
+[The highlights for FA & TOPOPT](https://github.com/jomorlier/ALMcourse/blob/master/teaching/Higlights_FA_JM.pdf)
+
+[Our TOPOPT+ALM Research](https://github.com/jomorlier/ALMcourse/blob/master/teaching/TOPOPT&ALM_SUPAERO.pdf)
+
+
+[The 3 point bending projected corrected using top88](http://htmlpreview.github.io/?https://github.com/jomorlier/ALMcourse/blob/master/top88/topopt_3ptBENDING.html)
+
+
