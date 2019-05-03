@@ -1,3 +1,19 @@
+# crash course
+
+You can find in teaching repository 
+
+[The course introduction](https://github.com/jomorlier/ALMcourse/blob/master/teaching/TOPOPT_intro2018.pdf)
+
+[The exercice using top88](https://github.com/jomorlier/ALMcourse/blob/master/teaching/BE_Topopt_eleve.pdf)
+
+[The highlights for FA & TOPOPT](https://github.com/jomorlier/ALMcourse/blob/master/teaching/Higlights_FA_JM.pdf)
+
+[Our TOPOPT+ALM Research](https://github.com/jomorlier/ALMcourse/blob/master/teaching/TOPOPT&ALM_SUPAERO.pdf)
+
+[The 3 point bending projected corrected using top88](https://github.com/jomorlier/ALMcourse/blob/master/top88/topopt_3ptBENDING.html)
+
+
+
 # From Finite Element Analysis to Topology Optimization
 
 This note introduces the basic concept of finite element analysis (FEA) and topology optimization (Topopt), 
@@ -27,31 +43,19 @@ more matured in the last two decades. Today topology optimization has many indus
 light-weight vehicle bodies, to artificial bones and implants, to biomemetic airplane wings, 
 to various sensors and actuators.
 
-<img src="/_images/mechdesign/featop4.jpg" alt="Drawing" style="height: 300px;"/> 
+<img src="/_images/mechdesign/featop4.jpg" alt="Drawing" style="height: 150px;"/> 
 
-<img src="/_images/mechdesign/featop7.png" alt="Drawing" style="height: 300px;"/> 
+<img src="/_images/mechdesign/featop7.png" alt="Drawing" style="height: 150px;"/> 
 
 Image from Aage et al. (2017) "Giga-voxel computational morphogenesis for structural design"
 
-<img src="/_images/mechdesign/featop5.png" alt="Drawing" style="height: 300px;"/> 
+<img src="/_images/mechdesign/featop5.png" alt="Drawing" style="height: 1500px;"/> 
 
 Image from Wu et al. (2018) "Infill Optimization for Additive Manufacturing - Approaching Bone-like Porous Structures"
 
-<img src="/_images/mechdesign/featop6.png" alt="Drawing" style="height: 400px;"/> 
+<img src="/_images/mechdesign/featop6.png" alt="Drawing" style="height: 200px;"/> 
 
 Image from Dassault Systems
 
-You can find in teaching repository 
-
-[The course introduction](https://github.com/jomorlier/ALMcourse/blob/master/teaching/TOPOPT_intro2018.pdf)
-
-[The exercice using top88](https://github.com/jomorlier/ALMcourse/blob/master/teaching/BE_Topopt_eleve.pdf)
-
-[The highlights for FA & TOPOPT](https://github.com/jomorlier/ALMcourse/blob/master/teaching/Higlights_FA_JM.pdf)
-
-[Our TOPOPT+ALM Research](https://github.com/jomorlier/ALMcourse/blob/master/teaching/TOPOPT&ALM_SUPAERO.pdf)
-
-
-[The 3 point bending projected corrected using top88](http://htmlpreview.github.io/?https://github.com/jomorlier/ALMcourse/blob/master/top88/topopt_3ptBENDING.html)
 
 
