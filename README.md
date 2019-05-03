@@ -20,11 +20,11 @@ This note introduces the basic concept of finite element analysis (FEA) and topo
 and hopefully convince you that these are important topics to learn about for future 
 engineers 
 
-We showed that the deflection or deformation of a structure ($${\bf U}$$) can be solved through a algebraic equation 
+We showed that the deflection or deformation of a structure U can be solved through a algebraic equation 
 
-$${\bf KU}={\bf F}$$.
+KU=F.
 
-It can be further shown that the strain energy due to the deformation is $$0.5{\bf U}^T{\bf KU}$$. Minimizing this energy
+It can be further shown that the strain energy due to the deformation is 0.5U^TKU. Minimizing this energy
  is equivalent to minimizing the compliance of the structure under the given loads and boundary conditions, leading to 
  optimal topologies. 
 
@@ -32,8 +32,8 @@ We explain some technical details below. A good tutorial can be found from Dr. S
 this [code](http://www.topopt.dtu.dk/?q=node/751) and this [paper](http://www.topopt.dtu.dk/files/TopOpt88.pdf)).
 
 
-For those interested, [here](http://designinformaticslab.github.io/designopt_tutorial/2017/10/26/topologyopt.html) 
-I explain the details for solving this topology optimization problem.
+For those interested, A good introduction can be find [here](http://designinformaticslab.github.io/designopt_tutorial/2017/10/26/topologyopt.html) 
+
 
 ## Application of Topology Optimization
 
