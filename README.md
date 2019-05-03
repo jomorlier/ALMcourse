@@ -10,7 +10,7 @@ You can find in teaching repository
 
 [Our TOPOPT+ALM Research](https://github.com/jomorlier/ALMcourse/blob/master/teaching/TOPOPT&ALM_SUPAERO.pdf)
 
-[The 3 point bending projected corrected using top88](https://github.com/jomorlier/ALMcourse/blob/master/top88/topopt_3ptBENDING.html)
+[The 3 point bending projected corrected using top88](http://htmlpreview.github.io/?https://github.com/jomorlier/ALMcourse/blob/master/top88/topopt_3ptBENDING.html)
 
 
 
