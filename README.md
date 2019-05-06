@@ -16,6 +16,15 @@ You can find in top88 repository all the files, paper, and ...
 
 Have a look in the top3D repository to do the same but in 3D !!! 
 
+Last but not the least a MATLAB tutorial Advanced Topology Optimization.
+
+Part A:  [Constraints Agreggation](http://htmlpreview.github.io/?https://github.com/jomorlier/ALMcourse/blob/master/AdvancedTopOpt/ConstraintsAgreggation.html)
+Thanks to my PhD Simone.
+
+Part B:  [Stress Based TopOpt](http://htmlpreview.github.io/?https://github.com/jomorlier/ALMcourse/blob/master/AdvancedTopOpt/StressBasedTopOpt.html)
+Thanks **AGAIN** to my PhD Simone.
+Before you can use Method of Moving Asymptotes (MMA) as an optimizer in our stress based topology optimization program, you need to obtain the Matlab implementation of MMA from Prof. Krister Svanberg (krille@math.kth.se) from KTH in Stockholm Sweden.
+
 
 # From Finite Element Analysis to Topology Optimization
 
