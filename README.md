@@ -1,10 +1,21 @@
 # crash course
 
-You can find in teaching repository 
+****************
+
+LECTURES
+
+****************
 
 [The course introduction](https://github.com/jomorlier/ALMcourse/blob/master/teaching/TOPOPT_intro2018.pdf)
 
 [But how do you compute sensitivity of the compliance?](https://github.com/jomorlier/ALMcourse/blob/master/teaching/C3_demo.pdf)
+
+
+****************
+
+COMPUTER LAB
+
+****************
 
 [The exercice using top88](https://github.com/jomorlier/ALMcourse/blob/master/teaching/BE_Topopt_eleve.pdf)
 
@@ -18,6 +29,13 @@ You can find in top88 repository all the files, paper, and ...
 
 Have a look in the top3D repository to do the same but in 3D !!! 
 
+
+****************
+
+MORE ADVANCED STUFF
+
+****************
+
 Last but not the least a MATLAB tutorial Advanced Topology Optimization.
 
 Part A:  [Constraints Agreggation](http://htmlpreview.github.io/?https://github.com/jomorlier/ALMcourse/blob/master/AdvancedTopOpt/ConstraintsAgreggation.html)
@@ -28,6 +46,12 @@ Thanks **AGAIN** to my PhD Simone.
 Before you can use Method of Moving Asymptotes (MMA) as an optimizer in our stress based topology optimization program, you need to obtain the Matlab implementation of MMA from Prof. Krister Svanberg (krille@math.kth.se) from KTH in Stockholm Sweden.
 
 
+
+****************
+
+RECAP
+
+****************
 # From Finite Element Analysis to Topology Optimization
 
 This note introduces the basic concept of finite element analysis (FEA) and topology optimization (Topopt), 
