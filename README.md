@@ -10,9 +10,18 @@ LECTURES
 
 COURSE WITH AUDIO
 
-
+[The course introduction](https://github.com/jomorlier/ALMcourse/blob/master/Topopt.jsw)
 
 [But how do you compute sensitivity of the compliance?](https://github.com/jomorlier/ALMcourse/blob/master/teaching/C3_demo.pdf)
+
+****
+
+Jack Chessa's Youtube channel
+
+[Hypermesh/hyperview tutorials](https://www.youtube.com/playlist?list=PL3A7B78F0E428DF72)
+
+****
+
 
 
 ****
