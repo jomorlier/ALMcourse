@@ -2,6 +2,16 @@
 
 ****
 
+POPULARIZATION
+
+****
+
+
+https://www.linkedin.com/pulse/possible-build-aircraft-wing-lego-joseph-morlier/
+
+
+****
+
 LECTURES
 
 ****
