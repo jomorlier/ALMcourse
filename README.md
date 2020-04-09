@@ -8,6 +8,10 @@ LECTURES
 
 [The course introduction](https://github.com/jomorlier/ALMcourse/blob/master/teaching/TOPOPT_intro2018.pdf)
 
+COURSE WITH AUDIO
+
+
+
 [But how do you compute sensitivity of the compliance?](https://github.com/jomorlier/ALMcourse/blob/master/teaching/C3_demo.pdf)
 
 
