@@ -33,7 +33,8 @@ with audio using Flash
 
 ****
 
-Jack Chessa's Youtube channel
+Some OptiStruct tutorials
+https://altairuniversity.com/13907-topology-optimization-tutorial-3-point-bending-of-a-beam-1d-2d-and-3d/#
 
 [Hypermesh/hyperview tutorials](https://www.youtube.com/playlist?list=PL3A7B78F0E428DF72)
 
