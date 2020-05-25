@@ -132,5 +132,22 @@ Image from Wu et al. (2018) "Infill Optimization for Additive Manufacturing - Ap
 
 Image from Dassault Systems
 
+<img src="/_images/mechdesign/featop6.png" alt="Drawing" style="height: 100px;"/> 
+
+## Tesla and 3D printing
+
+<img src="/_images/mechdesign/featop6.png" alt="Drawing" style="height: 100px;"/> 
+
+Image from Tesla
+
+<img src="/_images/mechdesign/featop6.png" alt="Drawing" style="height: 100px;"/> 
+
+Image from Tesla
+
+<img src="/_images/mechdesign/featop6.png" alt="Drawing" style="height: 100px;"/> 
+
+Image from Tesla
+
+
 
 
