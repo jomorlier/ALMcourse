@@ -136,17 +136,19 @@ Image from Dassault Systems
 
 ## Tesla and 3D printing
 
-<img src="/_images/mechdesign/featop6.png" alt="Drawing" style="height: 100px;"/> 
+[Recent paper](https://www.3dprintingmedia.network/tesla-shows-massive-generatively-designed-3d-printed-part-in-model-y-underbody/)
 
-Image from Tesla
+<img src="/_images/model-y-diagram-scaled.jpg" alt="Drawing" style="height: 100px;"/> 
 
-<img src="/_images/mechdesign/featop6.png" alt="Drawing" style="height: 100px;"/> 
+CAD from Tesla
 
-Image from Tesla
+<img src="/_images/model-y-old-e1589886763340.jpg" alt="Drawing" style="height: 100px;"/> 
 
-<img src="/_images/mechdesign/featop6.png" alt="Drawing" style="height: 100px;"/> 
+Previous Manufacturing from Tesla
 
-Image from Tesla
+<img src="/_images/model-y-new.jpg" alt="Drawing" style="height: 100px;"/> 
+
+3D printing from Tesla
 
 
 
