@@ -18,15 +18,6 @@ LECTURES
 
 [The course introduction](https://github.com/jomorlier/ALMcourse/blob/master/teaching/TOPOPT_intro2018.pdf)
 
-with audio using Flash
-
-[Flash](https://www.commentcamarche.net/contents/447-swf-fichier-swf)
-
-[Audio1](https://github.com/jomorlier/ALMcourse/blob/master/TOpopt1.swf)
-
-[Audio2](https://github.com/jomorlier/ALMcourse/blob/master/TOpopt2.swf)
-
-[Audio3](https://github.com/jomorlier/ALMcourse/blob/master/TOpopt3.swf)
 
 
 [But how do you compute sensitivity of the compliance?](https://github.com/jomorlier/ALMcourse/blob/master/teaching/C3_demo.pdf)
