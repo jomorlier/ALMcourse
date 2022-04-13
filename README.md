@@ -1,4 +1,4 @@
-# TOPOPT 2020
+# TOPOPT FOR ALM (intro only)
 joseph.morlier@isae-supaero.fr
 ****
 
