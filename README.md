@@ -10,6 +10,11 @@ POPULARIZATION
 https://www.linkedin.com/pulse/possible-build-aircraft-wing-lego-joseph-morlier/
 
 
+Jun Wu's channel on Youtube
+
+https://www.youtube.com/watch?v=5ocnVS_HvdY
+
+
 ****
 
 LECTURES
